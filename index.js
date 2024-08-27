@@ -1,3 +1,3 @@
 module.exports = {
-    add: (a, b) => 7,
+    add: (a, b) => 99,
 }
